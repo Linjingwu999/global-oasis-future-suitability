@@ -1,0 +1,20 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+
+# Local data and derived outputs
+data/
+raw_data/
+outputs/
+models/
+figures/
+*.tif
+*.tiff
+*.gpkg
+*.shp
+*.dbf
+*.shx
+*.prj
+*.zip

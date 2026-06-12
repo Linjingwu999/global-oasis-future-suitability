@@ -1,0 +1,15 @@
+geopandas
+numpy
+pandas
+rasterio
+shapely
+scikit-learn
+scipy
+matplotlib
+seaborn
+joblib
+tqdm
+pyproj
+fiona
+earthengine-api
+python-docx
