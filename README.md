@@ -14,12 +14,15 @@ from the original data providers listed in `docs/data_sources.md`.
 - `scripts/02_validation_sensitivity/`: predictor screening, independent
   validation, model/background sensitivity, hydrology sensitivity, and field
   control validation.
-- `scripts/03_figures_tables/`: scripts used to generate the main and key
-  supplementary manuscript figures.
 - `scripts/04_data_package/`: helper used to assemble the Science Data Bank
   upload package.
 - `docs/script_manifest.csv`: source-to-upload mapping for the curated review
   package.
+
+Manuscript figure and table generation scripts are intentionally omitted from
+this GitHub package. Figure and table reproducibility is supported through the
+figure-source data, table-source data, final evidence files, and metadata in
+the associated Science Data Bank package.
 
 ## Reproducing the analysis
 
