@@ -1,15 +1,17 @@
 # Data sources
 
-The GitHub repository contains code only. Data supporting the manuscript are
-handled through the Science Data Bank package and the original data providers.
+The GitHub repository contains key code only. Project-derived data supporting
+the manuscript are not publicly released in this repository and will be made
+available on request. Third-party products should be obtained from their
+original providers.
 
 ## Project-derived data
 
 Derived presence and background samples, model-ready environmental tables,
-future-scenario prediction tables, area-summary tables, main-figure source
-tables, sensitivity-analysis outputs, quality-control summaries, selected
-geospatial evidence files, and metadata are deposited in Science Data Bank:
-https://doi.org/10.57760/sciencedb.39923.
+future-scenario prediction tables, area-summary tables, figure source data,
+table source data, sensitivity-analysis outputs, quality-control summaries, and
+selected geospatial evidence files are not included in this repository. Data
+will be made available on request.
 
 ## Third-party products
 

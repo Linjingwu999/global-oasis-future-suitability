@@ -2,28 +2,23 @@
 
 This is a curated review package, not a dump of the full working directory.
 It keeps the scripts needed to inspect modelling, validation, sensitivity
-analysis, workflow environment documentation, and Science Data Bank package
-construction.
+analysis, feasibility screening, and workflow environment documentation.
 
 ## Suggested order
 
-1. Prepare input data from the Science Data Bank record
-   (https://doi.org/10.57760/sciencedb.39923) and original providers.
+1. Request the project-derived input data from the authors if a full rerun is
+   needed, and obtain third-party products from their original providers.
 2. Run the core pipeline scripts in `scripts/01_core_pipeline/` in filename
    order.
 3. Run validation and sensitivity scripts in `scripts/02_validation_sensitivity/`.
-4. Inspect main-figure source tables, table-source data, final evidence files,
-   and metadata in the associated Science Data Bank package.
-5. Use `scripts/04_data_package/sciencedb_package_builder.py` only when
-   rebuilding the data-deposit package.
 
 ## Notes
 
 - Large rasters, model objects, and source products are intentionally excluded
   from GitHub.
 - Manuscript figure and table generation scripts are intentionally excluded
-  from GitHub. Main-figure source tables and table evidence are documented
-  through the Science Data Bank source-data package.
+  from GitHub. Figure source data and table source data are not included in this
+  repository.
 - Original third-party datasets should be downloaded from their providers and
   cited as described in `docs/data_sources.md`.
 - Several scripts contain absolute paths from the analysis workstation. These
