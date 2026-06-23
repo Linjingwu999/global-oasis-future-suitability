@@ -5,9 +5,11 @@ handled through the Science Data Bank package and the original data providers.
 
 ## Project-derived data
 
-Derived tables, figure source data, selected geospatial outputs, and metadata
-are staged for Science Data Bank. Use the final Science Data Bank DOI or
-reviewer link once available.
+Derived presence and background samples, model-ready environmental tables,
+future-scenario prediction tables, area-summary tables, main-figure source
+tables, sensitivity-analysis outputs, quality-control summaries, selected
+geospatial evidence files, and metadata are deposited in Science Data Bank:
+https://doi.org/10.57760/sciencedb.39923.
 
 ## Third-party products
 
@@ -17,8 +19,9 @@ reviewer link once available.
   HydroRIVERS provider records and the cited Lehner and Grill reference.
 - ESA WorldCover 2020: use the ESA WorldCover 10 m 2020 v100 record cited in
   the manuscript.
-- Global High-Resolution Oasis Dataset: Lin et al. (2026), Science Data Bank
-  V1, https://doi.org/10.57760/sciencedb.36955.
+- Global Oases Distribution Dataset and its Cataloging System: use the Global
+  Change Research Data Publishing & Repository record cited in the manuscript
+  (Gui et al., 2025).
 
 Do not redistribute original provider files unless the provider license allows
 it and the final data record states the reuse conditions.
